@@ -1,0 +1,3 @@
+Đây là một file plaintext để kiểm tra thuật toán mã hóa AES.
+AES (Advanced Encryption Standard) là một thuật toán mã hóa khối được sử dụng rộng rãi trên toàn thế giới.
+Thuật toán này được thiết kế bởi hai nhà mật mã học người Bỉ là Vincent Rijmen và Joan Daemen.
